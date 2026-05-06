@@ -48,3 +48,6 @@ console.log(a)
 // git statu - shows the curent of working directory
 //git add - stages changes for commit
 //git commit - save changes with a message
+
+//git push origin main - upload commit to a remote repository
+//git pull origin main - fetch and mergin updates from a remote repository
