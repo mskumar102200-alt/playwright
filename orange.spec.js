@@ -119,5 +119,9 @@ test('ornage', async({browser})=>{
     const countrySearch = await page.locator('//button[text()=" Search "]').click()
 
     await page.screenshot({path:'fullpage5.png',fullPage:true})
+
+   console.log("Country selected successfully")
+
+   console.log("Admin Status Over")
  
 })
